@@ -1,0 +1,13 @@
+21:32:36.885585 [SERVE] POST /modLogin -> 200 2781b 0ms
+21:32:37.552570 [SERVE] POST /modDownloadNew -> 200 18143072b 632ms
+21:32:37.820193 [SERVE] POST /modSeeds -> 200 1209301b 28ms
+21:32:44.181607 [SERVE] POST /modModulesNew -> 200 166801b 4ms
+21:32:45.271324 [SERVE] POST /modSettingsNew -> 200 13901b 2ms
+21:32:48.290386 [SERVE] POST /modSettingFieldsNew -> 200 922961b 59ms
+21:32:55.205775 [SERVE] POST /downloadModMappings -> 200 7672708b 980ms
+21:33:14.254243 [SERVE] POST /accountInfo -> 200 6951b 0ms
+21:33:14.372791 [SERVE] POST /modMenuMappings -> 200 77841b 3ms
+21:33:14.939560 [CFG] POST /modGetConfigListNew -> 200 4146b 1ms
+21:33:14.953713 [SERVE] POST /theme -> 200 1740b 0ms
+21:33:14.968452 [SERVE] POST /checkOnboarding -> 200 1743b 0ms
+21:34:08.394996 [CFG] POST /modGetConfigListNew -> 200 4146b 1ms

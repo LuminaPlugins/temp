@@ -1,0 +1,6 @@
+POST https://api.prestigeclient.vip/accountInfo
+
+Host: api.prestigeclient.vip
+Accept: */*
+Content-Type: application/json
+Content-Length: 2080

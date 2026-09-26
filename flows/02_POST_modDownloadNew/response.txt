@@ -1,0 +1,14 @@
+HTTP 200
+
+Date: Mon, 07 Sep 2026 03:00:52 GMT
+Content-Type: application/octet-stream
+Content-Length: 18143072
+Connection: keep-alive
+content-disposition: attachment;filename=prestige.jar
+data: ME1+YIZ26ufZC4I0/dT9Bg==
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tip0NbId7yabA2FHhMELECuqiyDmbeUpIOmeJh02tXeA%2F81DnFQiErgASFdhbclEE2IvXjUPqjzEMqOWypOihMzA0%2Bd43fyJWfeoGTGBESJc7bIgEjPPiEbr9xGXcDZ9edM7%2FoIG%2FfM%3D"}]}
+CF-RAY: a37277326b84a0e6-ORN
+alt-svc: h3=":443"; ma=86400
